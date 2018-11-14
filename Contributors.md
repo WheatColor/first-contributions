@@ -10512,3 +10512,4 @@ Anthony Stannard
 - [Nils Fedrigo](https://github.com/NilsFedrigo)
 - [Paladorn](https://github.com/Paladorn)
 - [Lucas Akira Morishita](https://github.com/lucas-akira/)
+- [Yvan Duhen](https://github.com/WheatColor)
